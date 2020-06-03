@@ -37,8 +37,8 @@ namespace TrainingConsole
 
         public void Print()
         {
-            TechnologyID = 10;
-            TechnologyName = "DotNet";
+            TechnologyID = 1;
+            TechnologyName = "Asp.Net";
 
             Console.WriteLine("The ID of {0} is {1}", TechnologyName, TechnologyID);
             Console.ReadKey();
