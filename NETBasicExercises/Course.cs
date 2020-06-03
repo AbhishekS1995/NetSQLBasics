@@ -65,8 +65,8 @@ namespace TrainingConsole
         {
             Title = "Asp.net";
             Technology = "Dotnet";
-            Credits = 4;
-            CourseID = 100;
+            Credits = 5;
+            CourseID = 11;
 
             Console.WriteLine("{0} has {1} credits", Technology, Credits);
             Console.ReadKey();
